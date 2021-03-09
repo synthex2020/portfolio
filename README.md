@@ -14,9 +14,9 @@ An applicaton that allows for developers to showcase their work. It takes advant
   
 The application source code is tightly coupled with the above structure. 
 To modify application to fit one's personal profile:
-  1.Add the application to the relevent firebase project
-  2.Add the relevent google firebase file to the relevent part of the project, the google json file that is recieved when regestering an app
-  3.Add links to your own personal social media in the about page, under the on pressed function button
+      1.Add the application to the relevent firebase project
+      2.Add the relevent google firebase file to the relevent part of the project, the google json file that is recieved when regestering an app
+      3.Add links to your own personal social media in the about page, under the on pressed function button
 
 You are free to edit everything that is the source code as you see fit in accordance with your own portfolio. 
 
